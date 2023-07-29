@@ -10,6 +10,7 @@ public class Main
         System.out.print("Enter Welcome Message: ");
         String welcomeMessage=br.readLine();
         System.out.println(welcomeMessage);
+        System.out.println("Thank you and have a good day!");
 
     }
 }
